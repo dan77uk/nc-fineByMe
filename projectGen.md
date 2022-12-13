@@ -37,6 +37,7 @@ As a user, I will have the option to create an account, with email, username, lo
 User will be notified if username already exists, along with confirmation of created user after completion.
 POST /api/user
 
+
 Tech-stack:
 
 React FE, express REST API BE, postgres DB
