@@ -43,3 +43,67 @@ Tech-stack:
 React FE, express REST API BE, postgres DB
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT IDEAS:
+
+
+
+postYourPets
+
+MVP
+As a user I can create an account, where I can post images and videos of my pets
+as a user I can view other user profiles 
+As a user I can view a homepage with different users posts
+
+extra:
+As a user I can like/comment on other users posts
+As a user I can follow/subscribe to other users 
+As a user I can Search the existing posts using key words
+
+
+tech stack:
+react-native, postgres sql, js backend, express, spark Ar
+
+
+
+
+
+safetyTracker
+
+MVP
+As a user I can create an account which when given permission can track my movement
+As a user I can alert my contacts when I choose
+As a user I can check in to approved safe spaces (businesses/organisations/etc)
+
+
+
+Tech stack:
+react-native, typescript
+
+
+Recycler
+
+MVP
+As a user I can create an account to list items on 
+As a user I can be contacted by other users about my items
+As a user I can view recycling centres by location 
+
+Tech stack:
+
+react-native, mongo db, typescript 
+
+
+
